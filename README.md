@@ -1,4 +1,5 @@
-<h2 align="left">Hi ðŸ‘‹! My name is Prudhvi Madam and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Prudhvi and I'm a software engineer from California.</h2>
+
 
 ###
 
