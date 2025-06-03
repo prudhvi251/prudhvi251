@@ -1,5 +1,13 @@
 <h2 align="left">Hi 👋! My name is Prudhvi and I'm a software engineer from California.</h2>
 
+A full-stack engineer with a strong passion for building scalable, high-performance web applications.
+
+🌱  Recent graduate of California State University, Long Beach  
+🌻  Currently working as a Software Engineer at Community Dreams Foundation  
+⚙️  Exploring Spring Boot and Next.js to deepen my backend and frontend expertise
+
+---
+
 
 ###
 
